@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 from scipy import stats
 from scipy.optimize import brentq
 import matplotlib.pyplot as plt
@@ -22,6 +21,7 @@ def t_stat(x, y):
     return res
 
 def permute(x, y, rng, n1=10):
+    """This function shuffles the combined (20,100) array, so every column gets the same row permutation."""
 
     combined = np.concatenate([x, y], axis = 0)
 
@@ -89,6 +89,7 @@ def run(delta, rng, B=1000):
 
     pvals = np.zeros(100)
 
+    # p-values pool all permuted statistics into one null reference results.size, so the 10 true effect columns contribute to the reference distribution.
     for i in range(100):
 
         pvals[i] = (np.abs(results) >= np.abs(observed[i])).sum() / results.size
@@ -115,8 +116,6 @@ c, fdr_hat, fdp, pvals = run(0.8, rng)
 
 q_grid = np.linspace(0.01, 0.5, 50)
 
-bh_fdp = np.zeros(len(q_grid))
-
 n_sim = 200
 
 all_fdp = np.zeros((n_sim, len(q_grid)))
@@ -140,7 +139,6 @@ ax.plot(c, fdr_hat, label='Estimated FDR')
 ax.plot(c, fdp, label='Realised FDP')
 ax.legend()
 ax.set_xlabel('c'); ax.set_ylabel('FDR/FDP')
-# ; ax.set_ylim(0, 1.02)
 fig.savefig('drill04_fdr_hat.png', dpi=150, bbox_inches='tight')
 
 fig2, ax2 = plt.subplots(figsize=(7,5))
