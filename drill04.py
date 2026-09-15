@@ -81,6 +81,7 @@ def run(delta, rng, B=1000):
 
         R = (np.abs(observed) >= k).sum()
 
+        # V_hat assumes all null, when only last 90 are.
         V_hat = (np.abs(results) >= k).sum() / B
 
         fdr_hat[j] = V_hat / np.maximum(R, 1) 
@@ -89,7 +90,8 @@ def run(delta, rng, B=1000):
 
     pvals = np.zeros(100)
 
-    # p-values pool all permuted statistics into one null reference results.size, so the 10 true effect columns contribute to the reference distribution.
+    # Since every column uses the same test with the same sizes their null distribution is the same, so pooling is allowed.
+    # pooling then gives finer p-values since the denominator results.size is 100 times bigger.
     for i in range(100):
 
         pvals[i] = (np.abs(results) >= np.abs(observed[i])).sum() / results.size
@@ -108,11 +110,12 @@ def power(d):
 
     return p
 
+# delta is chosen when power is exactly 80% for a single uncorrected two-tailed test (alpha=0.05, n=10 per group). 
 root = brentq(lambda d: power(d) - 0.8, 0.01, 2.0)
 
-print(power(root))
+print(root)
 
-c, fdr_hat, fdp, pvals = run(0.8, rng)
+c, fdr_hat, fdp, pvals = run(root, rng)
 
 q_grid = np.linspace(0.01, 0.5, 50)
 
@@ -122,7 +125,7 @@ all_fdp = np.zeros((n_sim, len(q_grid)))
 
 for s in range(n_sim):
 
-    _, _, _, pvals = run(0.8, rng)
+    _, _, _, pvals = run(root, rng)
 
     for i, q in enumerate(q_grid):
 
@@ -131,6 +134,13 @@ for s in range(n_sim):
         all_fdp[s, i] = bh[10:].sum() / max(R, 1)
 
 bh_fdr = all_fdp.mean(axis=0)
+
+for i, q in enumerate(q_grid):
+
+    diff = bh_fdr[i] - q
+    se = all_fdp[:,i].std(axis = 0) / np.sqrt(n_sim)
+    if q <= 0.07:
+        print(diff - (se * 2))
 
 
 

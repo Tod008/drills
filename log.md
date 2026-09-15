@@ -8,3 +8,6 @@
 2026-09-13 | code 6h | words 86 | drill04 — permutation p-values + resampling FDR (ISL 13.5), three curves, BH tracks q
 **Note:** finished at 3:20am. Did not play, but was a long session with little reading. 
 
+2026-09-14 | code 4h | words 0 | top-level drills/README.md drafted + drill04 comments (1 of 3 planned)
+
+2026-09-15 | code 5h | words 40 (+22 reviews) | drill04 fixes — δ=root in both runs, 3/3 comments, per-q SE check (q≤0.07 excursion within 2 SE); README FDR definition, Parameters, excursion note
