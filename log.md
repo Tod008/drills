@@ -11,3 +11,11 @@
 2026-09-14 | code 4h | words 0 | top-level drills/README.md drafted + drill04 comments (1 of 3 planned)
 
 2026-09-15 | code 5h | words 40 (+22 reviews) | drill04 fixes — δ=root in both runs, 3/3 comments, per-q SE check (q≤0.07 excursion within 2 SE); README FDR definition, Parameters, excursion note
+
+2026-09-16 | code 0 | words 0 (+3 reviews) | guitar - | nothing, out with people
+
+2026-09-17 | code 0 | words 0 | guitar - | nothing, out with people
+
+2026-09-18 | code 0 | words 0 | guitar - | nothing
+
+2026-09-19 | code 0 | words 0 (+86 reviews) | guitar M8L1 slash chords + fretboard drill | Went out with cousins and girlfriend
