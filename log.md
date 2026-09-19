@@ -18,4 +18,4 @@
 
 2026-09-18 | code 0 | words 0 | guitar - | nothing
 
-2026-09-19 | code 0 | words 0 (+86 reviews) | guitar M8L1 slash chords + fretboard drill | Went out with cousins and girlfriend
+2026-09-19 | code 0 | words 40 (+73 reviews) | guitar M8L1 slash chords + fretboard drill | Went out with cousins and girlfriend
