@@ -47,6 +47,17 @@ drill04_fdr_hat.png: shows the difference between the estimated FDR (blue) and t
 drill04_bh_q.png: the solid curve is the realised FDR, the FDP averaged over 200 datasets at each q. The dashed diagonal is the target q. BH guarantees that the true FDR stays at or below q. The curve is slightly above when q<=0.07, but within 2 SE across the 200 datasets, consistent with noise. The curve sits near q·m_0/m = 0.9q rather than on the diagonal, because only 90 of the 100 columns are null.
 - Reading it came from: An Introduction to Statistical Learning chapter 13.5
 
+### drill05 — Bootstrap SE of the median vs. the simulated SE
+- File: drill05.py
+- Seed: 69
+- Parameters: (population Exp(β=2), n=30, reps=10000 simulated samples, B=10000 bootstrap resamples)
+- What it shows:
+drill05_medians.png: the lavender bars are the sampling distribution of the median, simulated from 10,000 samples of 30. Its SD, 0.364, is the simulated SE. The purple outline is the bootstrap distribution of the median from one sample (arr[0]), with bootstrap SE 0.371.
+The sampling distribution of the median is right-skewed: it peaks near the true median and has a longer tail to the right. This comes from the exponential population, which has most of its values at the low end and a long right tail. A sample of 30 that happens to include several large values can pull the median up a lot, but there is only limited room below, since no value can go below 0. This lopsidedness is also why the mean of the medians (1.421) sits above the true median (1.386, derived from the CDF as β·ln 2).
+The bootstrap estimated the standard error of the median from one sample of 30. It got very close (0.371 vs 0.364), but that was luck: another sample could be much farther off. arr[100] gives a bootstrap SE of 0.264.
+The bootstrap distribution sits on the observed sample median (1.955), not the true median (1.386). The bootstrap estimates the spread, not the location.
+- Reading it came from: An Introduction to Statistical Learning chapter 5.2
+
 ## Vocabulary notes
 - **FWER vs FDR**
     - FWER is the family wise error rate, and that is the probability you have of making at least 1 Type-I error.
@@ -60,3 +71,7 @@ drill04_bh_q.png: the solid curve is the realised FDR, the FDP averaged over 200
     - V_hat is inflated because it uses all m features as null, when only m-10 are.
 - **why one dataset gives a step function, not a smooth FDP curve**
     - Since there is only one dataset, V and R are given back as integers, so FDP moves in steps. FDR is the expectation across datasets, which is why it is smooth across many datasets.
+- **sampling distribution vs bootstrap distribution**
+    - The sampling distribution is the distribution of a statistic over all samples of size n from the population F. The bootstrap distribution is the same thing with F replaced by the one sample's empirical distribution F̂ₙ.
+- **SD vs SE**
+    - The SD of one sample is the spread of its values, and it stays roughly the same as n grows. The SE of a statistic is the SD of its sampling distribution, and it shrinks as n grows.

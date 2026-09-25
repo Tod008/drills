@@ -28,4 +28,7 @@
 
 2026-09-23 | code 0 | words 40 (+23 reviews) | guitar - | speak 45m: shadowed 3 sentences, 5 sentences written and corrected | read - | 1-min self-intro recorded; meditated once
 
-2026-09-24 | code 10m | words 40 (+9 reviews) | guitar M8L4 What Does the Capo Actually Do?? | speak 30m | read - | drill05 (b): settings + stub; explain-back 1 passed; NumPy scale = β explain-back passed; 5 sentences written and corrected; shadowed ch 1–30, 20m, 4/5; meditated once
+2026-09-24 | code 10m | words 40 (+9 reviews) | guitar M8L4 What Does the Capo Actually Do?? + fretboard 6/6 | speak 30m | read - | drill05 (b): settings + stub; explain-back 1 passed; NumPy scale = β explain-back passed; 5 sentences written and corrected; shadowed ch 1–30, 20m, 4/5; meditated once
+
+2026-09-25 | code 2h | words 40 (+23 reviews) | guitar M8L5 Power Chords + fretboard 6/6 | speak 30m | read - | drill05 (b)(c)(d): simulated sampling distribution of the median, SE 0.364; bootstrap SE 0.371 from one sample; plot + README
+**Note:** finished at 3:58am.
