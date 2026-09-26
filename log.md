@@ -32,3 +32,5 @@
 
 2026-09-25 | code 2h | words 40 (+23 reviews) | guitar M8L5 Power Chords + fretboard 6/6 | speak 30m | read - | drill05 (b)(c)(d): simulated sampling distribution of the median, SE 0.364; bootstrap SE 0.371 from one sample; plot + README
 **Note:** finished at 3:58am.
+
+2026-09-26 | code - | words 40 (+47 reviews) | guitar M8L6 Practice 1234 combos @70bpm 10m + slash chords 2m + songs (GV, Howl, LHG, RFIY) + fretboard 6/6 | speak 35m | read - | drill06 reading: Wasserman 6.3.2 ~10m (not finished, 8.3 not started); shadowed ch 1–30, 25m, 3/5; 5 sentences written; meditated once
