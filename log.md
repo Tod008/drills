@@ -35,6 +35,38 @@
 
 2026-09-26 | code 0 | words 40 (+47 reviews) | guitar M8L6 Practice 1234 combos @70bpm 10m + slash chords 2m + songs (GV, Howl, LHG, RFIY) + fretboard 6/6 | speak 35m | read 0 | drill06 reading: Wasserman 6.3.2 ~10m (not finished, 8.3 not started); shadowed ch 1–30, 25m, 3/5; 5 sentences written; meditated once
 
-
+2026-09-27 | code 0 | words 40 (+74 reviews) | guitar - | speak 10m | read - | wrote 5 sentences; played Gran Vals and Howl's Moving Castle (not tracked)
 
 2026-09-28 | code 0 | words 40 (+48 reviews) | guitar M9L1 F! It's Not Impossible + fretboard 6/6 | speak 10m | read - | meditated once
+
+**Note:** 29 Sep–12 Oct filled in on 14 Oct. Words, reviews, sentences and meditation are from the trainer and tracker; out days and the two 20m guitar days are from memory, on approximate days.
+
+2026-09-29 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | nothing
+
+2026-09-30 | code 0 | words 32 (+88 reviews) | guitar 0 | speak 0 | read 0 | out with the accountant, registering the business for taxes (day approx.)
+
+2026-10-01 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | out with the accountant, registering the business for taxes (day approx.)
+
+2026-10-02 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | nothing
+
+2026-10-03 | code 0 | words 0 (+7 reviews) | guitar 0 | speak 0 | read 0 | out being useful, errands (day approx.)
+
+2026-10-04 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | out with friends, cousins and girlfriend (day approx.)
+
+2026-10-05 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | out with friends, cousins and girlfriend (day approx.)
+
+2026-10-06 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | out with the accountant, registering the business for taxes (day approx.)
+
+2026-10-07 | code 0 | words 40 (+247 reviews) | guitar 0 | speak untimed | read 0 | wrote 3 sentences (not corrected); locked in the company logo; meditated once; out with the accountant, registering the business for taxes (day approx.)
+
+2026-10-08 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | nothing
+
+2026-10-09 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | nothing
+
+2026-10-10 | code 0 | words 0 (+69 reviews) | guitar 20m (day approx.) | speak 0 | read 0 | out with friends, cousins and girlfriend (day approx.)
+
+2026-10-11 | code 0 | words 0 (+66 reviews) | guitar 20m (day approx.) | speak 0 | read 0 | out with friends, cousins and girlfriend (day approx.)
+
+2026-10-12 | code 0 | words 0 | guitar 40m | speak 0 | read 0 | called the psychologist, booked for next week; set up the sleep tracker
+
+2026-10-13 | code 0 | words 61 (+161 reviews) | guitar 0 | speak 40m | read 0 | 5 sentences written and corrected, all 5 right on the second pass
