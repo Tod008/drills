@@ -70,3 +70,23 @@
 2026-10-12 | code 0 | words 0 | guitar 40m | speak 0 | read 0 | called the psychologist, booked for next week; set up the sleep tracker
 
 2026-10-13 | code 0 | words 61 (+161 reviews) | guitar 0 | speak 40m | read 0 | 5 sentences written and corrected, all 5 right on the second pass
+
+2026-10-14 | code 0 | words 0 (+3 reviews) | guitar 0 | speak 0 | read 0 | meditated once
+
+2026-10-15 | code 0 | words 0 (+8 reviews) | guitar 0 | speak 0 | read 0 | nothing
+
+2026-10-16 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | nothing
+
+2026-10-17 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | meditated once
+
+2026-10-18 | code 0 | words 9 (+89 reviews) | guitar 0 | speak 0 | read 0 | nothing else
+
+2026-10-19 | code 0 | words 40 (+39 reviews) | guitar 0 | speak 0 | read 0 | nothing else
+
+2026-10-20 | code 0 | words 12 (+69 reviews) | guitar 0 | speak 0 | read 0 | nothing else
+
+2026-10-21 | code 0 | words 3 (+12 reviews) | guitar 0 | speak 0 | read 0 | nothing else
+
+2026-10-22 | code 0 | words 21 (+35 reviews) | guitar 0 | speak 0 | read 0 | nothing else
+
+2026-10-23 | code 0 | words 40 (+85 reviews) | guitar 0 | speak 10m | read 0 | 5 sentences written and corrected, all 5 right on the second pass
