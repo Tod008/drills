@@ -90,3 +90,17 @@
 2026-10-22 | code 0 | words 21 (+35 reviews) | guitar 0 | speak 0 | read 0 | nothing else
 
 2026-10-23 | code 0 | words 40 (+85 reviews) | guitar 0 | speak 10m | read 0 | 5 sentences written and corrected, all 5 right on the second pass
+
+2026-10-24 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | swam 1h, mapped out the Ironman timeline
+
+2026-10-25 | code 0 | words 0 (+16 reviews) | guitar 0 | speak 0 | read 0 | nothing else
+
+2026-10-26 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | cooked bolognese with handmade pasta
+
+2026-10-27 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | company logo sheets
+
+2026-10-28 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | IT World '26 forum, lunch with HiPay's CEO and CFO
+
+2026-10-29 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | set up swimming as the sixth leg
+
+2026-10-30 | code 0 | words 0 | guitar 0 | speak 0 | read __ | swam 57 min, cooked fried rice, reading for tomorrow's talk
