@@ -105,6 +105,6 @@
 
 2026-10-30 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | swam 57 min, cooked fried rice
 
-2026-10-31 | code 0 | words 0 | guitar 0 | speak 0 | read 2h | out with my girlfriend, read for the data science talk 11:00-13:00, then sim drifting with cousins and girlfriend, picked up the basics in an hour
+2026-10-31 | code 0 | words 0 | guitar 0 | speak 0 | read 2h20m | out with my girlfriend, read for the data science talk 11:00-13:20, then sim drifting with cousins and girlfriend, picked up the basics in an hour
 
 2026-11-01 | code 0 | words 36 (+186 reviews) | guitar 0 | speak 0 | read 0 | cooked dumplings
