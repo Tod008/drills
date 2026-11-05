@@ -110,3 +110,9 @@
 2026-11-01 | code 0 | words 36 (+186 reviews) | guitar 0 | speak 0 | read 0 | cooked dumplings
 
 2026-11-02 | code 0 | words 39 (+48 reviews) | guitar 0 | speak 0 | read 0 | swam 55 min, 12 lengths (216 m) non-stop once
+
+2026-11-03 | code 0 | words 41 (+47 reviews) | guitar 10–30m songs | speak untimed | read 0 | 8 English sentences translated into Chinese and corrected (first round of the new sentence method); shadowing ticked
+
+2026-11-04 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | swam 58 min; picked up my mom from the airport
+
+2026-11-05 | code 0 | words 41 (+178 reviews) | guitar 10–30m songs | speak untimed | read 0 | 8 English sentences translated into Chinese and corrected, second round with the same 16 words, several words looked up
