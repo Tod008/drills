@@ -116,3 +116,17 @@
 2026-11-04 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | swam 58 min; picked up my mom from the airport
 
 2026-11-05 | code 0 | words 41 (+178 reviews) | guitar 10–30m songs | speak untimed | read 0 | 8 English sentences translated into Chinese and corrected, second round with the same 16 words, several words looked up
+
+2026-11-06 | code 0 | words 0 (+2 reviews) | guitar 0 | speak 0 | read 0 | nothing else
+
+2026-11-07 | code 0 | words 0 (+1 review) | guitar 0 | speak 0 | read 0 | swam 44 min; business ideas meeting with the speaking club, out until about 4am
+
+2026-11-08 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | nothing, home about 4am from the night before
+
+2026-11-09 | code 0 | words 0 (+43 reviews) | guitar 0 | speak 0 | read 0 | swam 33 min
+
+2026-11-10 | code 0 | words 0 (+30 reviews) | guitar 0 | speak 0 | read 0 | nothing else
+
+2026-11-11 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | swam 51 min; meditated once
+
+2026-11-12 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | UW reentry application for Spring 2027 submitted, plus the residency form; Terra Dotta return-from-leave request for a new I-20 (I-94, financial page, advisor verification); emailed ISS and my advisor
