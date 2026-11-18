@@ -130,3 +130,15 @@
 2026-11-11 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | swam 51 min; meditated once
 
 2026-11-12 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | UW reentry application for Spring 2027 submitted, plus the residency form; Terra Dotta return-from-leave request for a new I-20 (I-94, financial page, advisor verification); emailed ISS and my advisor
+
+2026-11-13 | code 0 | words 0 (+6 reviews) | guitar 0 | speak 0 | read 0 | nothing else
+
+2026-11-14 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | swam 48 min
+
+2026-11-15 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | nothing
+
+2026-11-16 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | nothing
+
+2026-11-17 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | swam 47 min
+
+2026-11-18 | code 0 | words 0 | guitar 0 | speak 0 | read 0 | Pre-Enrollment Checklist done, enrolled in L I S 201 and ECON 400, waitlisted for PHILOS 244 and L I S 462, emailed the iSchool; met the auto change client, it's a go, starting the build today with the other dev
